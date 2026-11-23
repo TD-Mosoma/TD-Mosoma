@@ -8,15 +8,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=805&height=44&lines=I%20turn%20business%20problem%20into%20working%20tech%20solutions;Solving%20problems%2C%20one%20commit%20at%20a%20time!" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+###  About Me
 
 Final-year Business Information Systems student at STADIO who builds working products and competes to prove them. 3rd place at AfriHack ‘26 with RoyalHub, an insurance and investment platform with client and admin dashboards, claims tracking and document uploads. 8th place at the Momentum x Monkey and River hackathon with an AI insurance assistant serving 6 user personas through role-based access control. Delivered a volunteer and donations management system for a real non-profit client, from proposal and system design through to a finished product (Big Little Things Foundation). My work sits where business problems meet technical delivery I translate stakeholder needs into working systems and use data (Power BI, analysis, research) to back decisions rather than guesswork. Outside of tech, I’m a student-athlete and academic mentor, which has taught me to handle pressure, hit deadlines and explain complex ideas simply. Looking to grow in business technology, data-driven product work and applied ML.
 
-😄 &nbsp;Pronouns: **he/him**  
-💬 &nbsp;Ask me about **Business Technology, Data, AI &amp; Software Development**  
-⚡ &nbsp;Fun fact: **I'm an athlete (Middle-distance)**
+ &nbsp;Pronouns: **he/him**  
+ &nbsp;Ask me about **Business Technology, Data, AI &amp; Software Development**  
+ &nbsp;Fun fact: **I'm an athlete (Middle-distance)**
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -48,14 +48,14 @@ Final-year Business Information Systems student at STADIO who builds working pro
   <a href="https://instagram.com/tebogo.19"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=TD-Mosoma&show_icons=true&theme=tokyonight&title_color=d29922&icon_color=d29922&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=TD-Mosoma&layout=compact&theme=tokyonight&title_color=d29922&icon_color=d29922&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 📈 Contribution Graph
+###  Contribution Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=TD-Mosoma&bg_color=00000000&color=d29922&line=d29922&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
